@@ -1,1 +1,3 @@
 mm-venv
+.attach*
+nohup.out
